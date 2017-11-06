@@ -63,17 +63,6 @@ polygon:points
 image:source
 ```
 
-Create a Category class ‘CCTMXXMLParser+parser.mm’ based on CCTMXMapInfo in CCTMXXMLParser.m to override parseXMLFile and parser. This will do conversion of all pixels to points by using CC_CONTENT_SCALE_FACTOR() in run-time.
-My prototype above seems to work now both in non-Retina devices and Retina devices. My posting is already lengthy. I will shorten my posting here.
-
-#### History of Changes
-|Version|Released |Changes        |
-|-------|---------|---------------|
-|1.0-RC3|1/9/2013 |Support poligon|
-|1.0-RC2|1/8/2013 |Support polyline and tileoffset|
-|1.0-RC1|9/28/2011||
-|1.0-RC0|12/8/2010|init checkin|
-
 ### How to Run
 
 Here is how to run WBTMXTool from command line:
@@ -92,6 +81,14 @@ Hope this small tool helps.
 Thanks
 
 **WasabiBit**
+
+#### History of Changes
+|Version|Released |Changes        |
+|-------|---------|---------------|
+|1.0-RC3|1/9/2013 |Support poligon|
+|1.0-RC2|1/8/2013 |Support polyline and tileoffset|
+|1.0-RC1|9/28/2011||
+|1.0-RC0|12/8/2010|init checkin|
 
 ### References - Who is using this tool (As of Nov 2017):
 - Websites referencing WBTMXTool:
