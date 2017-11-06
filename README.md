@@ -71,19 +71,19 @@ My prototype above seems to work now both in non-Retina devices and Retina devic
 |-------|---------|---------------|
 |1.0-RC3|1/9/2013 |Support poligon|
 |1.0-RC2|1/8/2013 |Support polyline and tileoffset|
-|1.0-RC1|9/28/2011|Support poligon|
-|1.0-RC0|12/8/2010|Support poligon|
+|1.0-RC1|9/28/2011||
+|1.0-RC0|12/8/2010|init checkin|
 
 ### How to Run
 
 Here is how to run WBTMXTool from command line:
 
 - From SD to HD:
-	```
+```
 ./WBTMXTool -in sample.tmx -out sample-hd.tmx -scale 2.0 -suffixForHD -hd -suffixAction add
 ```
 - FRom HD to SD:
-	```
+```
 ./WBTMXTool -in sample-hd.tmx -out sample.tmx -scale 0.5 -suffixForHD -hd -suffixAction remove
 ```
 
