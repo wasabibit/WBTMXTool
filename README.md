@@ -3,6 +3,7 @@
 
 Please visit the original post [here](https://www.wasabibit.com/wbtmxtool/).
 
+<br>
 ### A Story - Background
 
 [Note: Original post written back in 2010]
@@ -19,6 +20,7 @@ I think my development process may be unique but hope that some of you may also 
 
 This is a brief background of why I made this tool/prototype.
 
+<br>
 ### How to use WBTMXTool
 
 After many many hours, I have come up with a prototype - two step process.
@@ -63,6 +65,7 @@ polygon:points
 image:source
 ```
 
+<br>
 ### How to Run
 
 Here is how to run WBTMXTool from command line:
@@ -82,6 +85,7 @@ Thanks
 
 **WasabiBit**
 
+<br>
 #### History of Changes
 |Version|Released |Changes        |
 |-------|---------|---------------|
@@ -90,6 +94,7 @@ Thanks
 |1.0-RC1|9/28/2011||
 |1.0-RC0|12/8/2010|init checkin|
 
+<br>
 ### References - Who is using this tool (As of Nov 2017):
 - Websites referencing WBTMXTool:
 	- [WizardFu Games](https://wizardfu.com/book/cocos2d-x/tilemaps-box2d/)
