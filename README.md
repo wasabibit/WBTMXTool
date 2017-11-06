@@ -79,11 +79,11 @@ My prototype above seems to work now both in non-Retina devices and Retina devic
 Here is how to run WBTMXTool from command line:
 
 - From SD to HD:
-        ```sh
+        ```
 ./WBTMXTool -in sample.tmx -out sample-hd.tmx -scale 2.0 -suffixForHD -hd -suffixAction add
 ```
 - FRom HD to SD:
-        ```sh
+        ```
 ./WBTMXTool -in sample-hd.tmx -out sample.tmx -scale 0.5 -suffixForHD -hd -suffixAction remove
 ```
 
