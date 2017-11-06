@@ -4,8 +4,14 @@
 Please visit the original post [here](https://www.wasabibit.com/wbtmxtool/).
 
 ### References - Who is using this tool (As of Nov 2017):
-- [WizardFu Games](https://wizardfu.com/book/cocos2d-x/tilemaps-box2d/)
-- [bjorn's github](https://github.com/bjorn/tiled/wiki)
+- Websites referencing WBTMXTool:
+	- [WizardFu Games](https://wizardfu.com/book/cocos2d-x/tilemaps-box2d/)
+	- [bjorn's github](https://github.com/bjorn/tiled/wiki)
+- Books describing WBTMXTool:
+	- [王者歸來：Cocos2D權威指南：用Cocos2D 超高效開發商業版iOS遊戲](http://global.pchome.com.tw/prod/DJAA2V-A90051DZH) (It's interesting to see it mentioned in Chinese although I don't read Chinese.)
+	- [『繁體書』Cocos2D權威指南：用Cocos2D 超高效開發商業版iOS遊戲](http://ww.megbook.com.hk/mall/detail2.jsp?proID=2599168#.WgDQFyMrKfU)
+- More threads:
+	- [A Stackoverflow thread](https://stackoverflow.com/questions/32077337/scaling-assets-without-changing-sprite-position)
 
 
 ### A Story - Background
