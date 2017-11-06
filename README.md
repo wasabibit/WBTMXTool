@@ -4,8 +4,8 @@
 Please visit the original post [here](https://www.wasabibit.com/wbtmxtool/).
 
 ### References - Who is using this tool (As of Nov 2017):
-[WizardFu Games](https://wizardfu.com/book/cocos2d-x/tilemaps-box2d/)
-[bjorn's github](https://github.com/bjorn/tiled/wiki)
+- [WizardFu Games](https://wizardfu.com/book/cocos2d-x/tilemaps-box2d/)
+- [bjorn's github](https://github.com/bjorn/tiled/wiki)
 
 
 ### A Story - Background
