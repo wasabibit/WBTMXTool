@@ -21,9 +21,7 @@ I think my development process may be unique but hope that some of you may also 
 This is a brief background of why I made this tool/prototype.
 
 <br>
-### How to use WBTMXTool
-
-After many many hours, I have come up with a prototype - two step process.
+### How WBTMXTool works
 
 Basically this tool converts design-time HD/RetinaDisplay-pixel based TMX files to corresponding SD files with SD pixels and vice versa.
 
@@ -79,6 +77,11 @@ Here is how to run WBTMXTool from command line:
 ./WBTMXTool -in sample-hd.tmx -out sample.tmx -scale 0.5 -suffixForHD -hd -suffixAction remove
 ```
 
+<br>
+### Downloads
+- Download or clone the [Github repository here](https://github.com/wasabibit/WBTMXTool).
+
+<br>
 Hope this small tool helps.
 
 Thanks
