@@ -105,16 +105,15 @@ FRom HD to SD:
 Here in this example, this is the way I am currently using WBTMXTool for me to convert all HD files in a specified directory to SD files in a different directory. (If you want, you can do in the reverse way - from SD to HD.)
 > 1. Place the executable in ${SRCROOT}/../WBTMXTool directory.
 WBTMXTool executable is within WBTMXTool directory.
-2. Create staging directories:
-${SRCROOT}/../StageTMXs/eachOne-hd <- For HD TMX files (I create HD TMX files only and put all of them here.)
-${SRCROOT}/../StageTMXs/eachOne <- For SD TMX files (Empty directory initially)
-3. Place all your HD TMX files in ${SRCROOT}/../StageTMXs/eachOne-hd
-4. Don’t forget to make your game project dependent on automate_stuff.sh in Xcode.
+>2. Create staging directories:
+>${SRCROOT}/../StageTMXs/eachOne-hd <- For HD TMX files (I create HD TMX files only and put all of them here.)
+>${SRCROOT}/../StageTMXs/eachOne <- For SD TMX files (Empty directory initially)
+>3. Place all your HD TMX files in ${SRCROOT}/../StageTMXs/eachOne-hd
+>4. Don’t forget to make your game project dependent on automate_stuff.sh in Xcode.
 
 Please note that the source TMX files in this example start with TileMap and TexturePacker is used for scaling the tile images themselves separately.
 
 It’s possible that this script may not work in your project most likely due to the directory structures. If this happened, please check if each of the directories used here is correctly found and reached in the script and adjust the script accordingly.
-```
 
 Thanks,
 
