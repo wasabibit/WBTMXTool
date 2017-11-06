@@ -67,12 +67,12 @@ Create a Category class ‘CCTMXXMLParser+parser.mm’ based on CCTMXMapInfo in 
 My prototype above seems to work now both in non-Retina devices and Retina devices. My posting is already lengthy. I will shorten my posting here.
 
 #### History of Changes
-- ver. 1.0-RC3 (Released on 1/9/2013) 
-	- Changes: support polygon
-- ver. 1.0-RC2 (Released on 1/8/2013)
-	- Changes: support polyline and tileoffset
-- ver. 1.0-RC1 (Released on 9/28/2011)
-- ver. 1.0-RC0 (Released on 12/8/2010)
+|Version|Released |Changes        |
+|-------|---------|---------------|
+|1.0-RC3|1/9/2013 |Support poligon|
+|1.0-RC2|1/8/2013 |Support polyline and tileoffset|
+|1.0-RC1|9/28/2011|Support poligon|
+|1.0-RC0|12/8/2010|Support poligon|
 
 ### How to Run
 There are two ways to run the tool:
