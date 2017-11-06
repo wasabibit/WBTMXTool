@@ -71,15 +71,6 @@ image:source
 Create a Category class ‘CCTMXXMLParser+parser.mm’ based on CCTMXMapInfo in CCTMXXMLParser.m to override parseXMLFile and parser. This will do conversion of all pixels to points by using CC_CONTENT_SCALE_FACTOR() in run-time.
 My prototype above seems to work now both in non-Retina devices and Retina devices. My posting is already lengthy. I will shorten my posting here.
 
-### Download
-Download the latest version(ver1.0-RC3) of WBTMXTool and example files below:
-- Download [WBTMXTool (Mac OSX)]({{ site.url }}/download/wbtmxtool/WBTMXTool)
-- Example files:
-	- [run_hd2sd.sh]({{ site.url }}/download/wbtmxtool/run_hd2sd.sh)
-	- [run_sd2hd.sh]({{ site.url }}/download/wbtmxtool/run_sd2hd.sh)
-	- [sample-hd.tmx]({{ site.url }}/download/wbtmxtool/sample-hd.tmx)
-	- [sample.tmx]({{ site.url }}/download/wbtmxtool/sample.tmx)
-
 #### History of Changes
 - ver. 1.0-RC3 (Released on 1/9/2013) 
 	- Changes: support polygon
