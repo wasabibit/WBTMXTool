@@ -1,5 +1,5 @@
 
-**WBTMXTool** is a tool that makes it easy to scale TMX asstets between HD and SD.
+**WBTMXTool** is a tool that makes it easy to scale TMX asstets between HD and SD. It has been created by **[WasabiBit](/)** and made available publicly for free to be used as a useful tool for game developers.
 
 Please visit the original post [here](https://www.wasabibit.com/wbtmxtool/).
 
