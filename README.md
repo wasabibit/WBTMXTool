@@ -19,7 +19,7 @@ I think my development process may be unique but hope that some of you may also 
 
 This is a brief background of why I made this tool/prototype.
 
-### How WBTMXTool works
+### How [WBTMXTool] works
 
 Basically this tool converts design-time HD/RetinaDisplay-pixel based TMX files to corresponding SD files with SD pixels and vice versa.
 
