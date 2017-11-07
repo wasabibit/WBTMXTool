@@ -1,7 +1,9 @@
 
 **[WBTMXTool](https://www.wasabibit.com/wbtmxtool/)** is a tool that makes it easy to scale [TMX](http://www.mapeditor.org/) assets between HD and SD. It has been created by **[WasabiBit](https://www.wasabibit.com)** and made available publicly for free to be used as a useful tool for game developers.
 
-Please visit the original post [here](https://www.wasabibit.com/wbtmxtool/).
+#### Did you like the tool?
+>Please Like it and follow us on Twitter and Facebook if you liked the tool.
+>If you have any questions or enhancement requests, please visit the original post [here](https://www.wasabibit.com/wbtmxtool/) and add comments on the page.
 
 ### A Story - Background
 
