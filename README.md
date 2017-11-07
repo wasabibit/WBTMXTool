@@ -89,7 +89,7 @@ Thanks
 **WasabiBit**
 
 <br>
-#### History of Changes
+### History of Changes
 |Version|Released |Changes        |
 |-------|---------|---------------|
 |1.0-RC3|1/9/2013 |Support poligon|
