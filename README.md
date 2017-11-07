@@ -3,7 +3,6 @@
 
 Please visit the original post [here](https://www.wasabibit.com/wbtmxtool/).
 
-<br>
 ### A Story - Background
 
 [Note: Original post written back in 2010]
