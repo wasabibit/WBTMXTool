@@ -19,7 +19,6 @@ I think my development process may be unique but hope that some of you may also 
 
 This is a brief background of why I made this tool/prototype.
 
-<br>
 ### How WBTMXTool works
 
 Basically this tool converts design-time HD/RetinaDisplay-pixel based TMX files to corresponding SD files with SD pixels and vice versa.
@@ -62,7 +61,6 @@ polygon:points
 image:source
 ```
 
-<br>
 ### How to Run
 
 Here is how to run WBTMXTool from command line:
@@ -76,18 +74,15 @@ Here is how to run WBTMXTool from command line:
 ./WBTMXTool -in sample-hd.tmx -out sample.tmx -scale 0.5 -suffixForHD -hd -suffixAction remove
 ```
 
-<br>
 ### Downloads
 - Download or clone the [Github repository here](https://github.com/wasabibit/WBTMXTool).
 
-<br>
 Hope this small tool helps.
 
 Thanks
 
 **WasabiBit**
 
-<br>
 ### History of Changes
 |Version|Released |Changes        |
 |-------|---------|---------------|
@@ -96,7 +91,6 @@ Thanks
 |1.0-RC1|9/28/2011||
 |1.0-RC0|12/8/2010|init checkin|
 
-<br>
 ### References - Who is using this tool (As of Nov 2017):
 - Websites referencing WBTMXTool:
 	- [WizardFu Games](https://wizardfu.com/book/cocos2d-x/tilemaps-box2d/)
